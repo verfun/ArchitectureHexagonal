@@ -1,0 +1,6 @@
+C:\Users\rizki\Documents\workspace\hexagonalTdd\Domain\src\main\java\fr\hexagonal\tdd\temperature\sensor\model\SensorRequest.java
+C:\Users\rizki\Documents\workspace\hexagonalTdd\Domain\src\main\java\fr\hexagonal\tdd\temperature\sensor\model\SensorState.java
+C:\Users\rizki\Documents\workspace\hexagonalTdd\Domain\src\main\java\fr\hexagonal\tdd\temperature\sensor\ports\client\SensorServicePort.java
+C:\Users\rizki\Documents\workspace\hexagonalTdd\Domain\src\main\java\fr\hexagonal\tdd\temperature\sensor\ports\infrastructure\SensorRequestRepositoryPort.java
+C:\Users\rizki\Documents\workspace\hexagonalTdd\Domain\src\main\java\fr\hexagonal\tdd\temperature\sensor\ports\infrastructure\TemperatureCaptorPort.java
+C:\Users\rizki\Documents\workspace\hexagonalTdd\Domain\src\main\java\fr\hexagonal\tdd\temperature\sensor\services\SensorService.java
