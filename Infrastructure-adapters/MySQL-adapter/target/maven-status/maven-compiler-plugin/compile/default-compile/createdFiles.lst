@@ -1,0 +1,4 @@
+fr\hexagonal\tdd\temperature\sensor\entity\SensorRequestEntity.class
+fr\hexagonal\tdd\temperature\sensor\repository\SensorRequestRepository.class
+fr\hexagonal\tdd\temperature\sensor\adapter\SensorRequestRepositoryAdapter.class
+fr\hexagonal\tdd\temperature\sensor\mapper\SensorRequestMapper.class

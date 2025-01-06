@@ -1,0 +1,6 @@
+fr\hexagonal\tdd\temperature\sensor\services\SensorService.class
+fr\hexagonal\tdd\temperature\sensor\model\SensorState.class
+fr\hexagonal\tdd\temperature\sensor\ports\infrastructure\TemperatureCaptorPort.class
+fr\hexagonal\tdd\temperature\sensor\model\SensorRequest.class
+fr\hexagonal\tdd\temperature\sensor\ports\client\SensorServicePort.class
+fr\hexagonal\tdd\temperature\sensor\ports\infrastructure\SensorRequestRepositoryPort.class
